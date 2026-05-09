@@ -1,0 +1,7 @@
+La terminal es una herramienta importante porque permite interactuar directamente con el sistema operativo. 
+Facilita la creación y organización de archivos. 
+Permite trabajar con Git de forma más eficiente. 
+Ayuda a entender la estructura de los proyectos. 
+Mejora la productividad en desarrollo de software. 
+Permite automatizar tareas. 
+Es fundamental en programación.
