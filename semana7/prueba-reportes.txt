@@ -1,0 +1,3 @@
+Al consultar la ruta GET /reportes, se muestra la información que ha sido almacenada previamente en el arreglo de reportes.
+Cada elemento contiene un identificador, un tipo de reporte y una descripción.
+Cuando se registran nuevos reportes mediante la ruta POST, estos quedan disponibles para ser consultados posteriormente a través de la ruta GET.
