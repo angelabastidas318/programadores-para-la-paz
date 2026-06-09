@@ -1,0 +1,1 @@
+Al realizar una petición POST a la ruta /registro, la API recibe la información enviada en formato JSON y responde mostrando los mismos datos junto con un mensaje de confirmación. Esto permite verificar que la información fue procesada correctamente por el servidor.
