@@ -1,0 +1,4 @@
+{
+"tipo": "Espacios públicos",
+"descripcion": "Los vecinos reportan daños en los juegos infantiles del parque del barrio."
+}
