@@ -1,0 +1,7 @@
+Las plataformas tecnológicas permiten recopilar información de manera organizada y eficiente.
+Cuando los datos se registran siguiendo una estructura definida, es más fácil procesarlos y analizarlos. 
+El uso de formatos como JSON facilita la comunicación entre usuarios y sistemas informáticos.
+Además, contribuye a reducir errores en el registro de información y mejora la calidad de los datos recibidos.
+Esto resulta útil para gestionar solicitudes, reportes e incidencias de la comunidad. 
+También permite realizar seguimiento a cada caso y tomar decisiones basadas en información confiable. 
+De esta forma, la tecnología fortalece la participación ciudadana y mejora la atención de las necesidades comunitarias.
