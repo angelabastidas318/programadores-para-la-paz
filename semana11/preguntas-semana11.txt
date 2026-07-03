@@ -1,0 +1,11 @@
+Pregunta 1:
+Respuesta correcta: Un sistema que permite almacenar y consultar información estructurada.
+
+Pregunta 2:
+Respuesta correcta: Crear, leer, actualizar y eliminar datos.
+
+Pregunta 3:
+Respuesta correcta: Identificar usuarios y controlar quién puede acceder a ciertas funciones.
+
+Pregunta 4:
+Respuesta correcta: Para evitar riesgos de privacidad o uso indebido de la información.
