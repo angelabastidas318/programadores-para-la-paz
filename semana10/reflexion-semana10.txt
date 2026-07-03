@@ -1,0 +1,6 @@
+Las metodologías ágiles permiten organizar mejor el trabajo porque ayudan a dividir un proyecto en tareas pequeñas y fáciles de completar.
+El backlog facilita establecer prioridades y trabajar primero en lo más importante.
+La automatización reduce tareas repetitivas y mejora la rapidez en las notificaciones.
+Herramientas como Telegram ayudan a mantener informados a los miembros del equipo y facilitan la coordinación de actividades.
+Además, estas prácticas permiten hacer seguimiento a los avances y mejorar continuamente la solución tecnológica.
+Todo esto contribuye a una gestión más organizada, eficiente y transparente de los procesos de participación ciudadana.
