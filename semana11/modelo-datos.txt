@@ -1,0 +1,23 @@
+Entidad: Causa
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- categoria
+- fecha
+
+Propósito:
+Guardar las causas comunitarias que serán publicadas en la plataforma para que los ciudadanos puedan conocerlas y participar.
+
+Entidad: Apoyo
+
+Campos principales:
+- id
+- causa_id
+- nombre_usuario
+- fecha
+- comentario
+
+Propósito:
+Registrar los apoyos que recibe cada causa, permitiendo hacer seguimiento a la participación de la comunidad y medir el impacto de cada iniciativa.
