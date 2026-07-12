@@ -1,0 +1,8 @@
+Durante este curso aprendí que la tecnología puede fortalecer la participación ciudadana cuando se utiliza de manera responsable.
+Comprendí la importancia de organizar las causas comunitarias utilizando herramientas digitales que facilitan el trabajo colaborativo.
+También aprendí que proteger los datos personales es fundamental para generar confianza en las plataformas.
+Conocí herramientas como GitHub, Node.js y n8n para desarrollar soluciones tecnológicas.
+Entendí cómo una base de datos permite organizar la información de forma eficiente.
+Además, aprendí que la automatización puede agilizar procesos y mejorar la comunicación con la comunidad. 
+Considero que proyectos como "Petición en 3 Clics" ayudan a fortalecer la exigibilidad democrática y la organización ciudadana. 
+Este curso me permitió comprender que la tecnología puede generar un impacto social positivo mas cuando se desarrolla con responsabilidad, transparencia y compromiso con la comunidad.
